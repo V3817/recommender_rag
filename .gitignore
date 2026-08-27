@@ -1,0 +1,38 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+
+# Vector database
+chroma_db/
+
+# Streamlit cache
+.streamlit/
+
+# macOS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# Local IDE settings
+.vscode/
+.idea/
+
+# Generated CSVs
+data/anime_updated.csv
